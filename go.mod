@@ -1,6 +1,6 @@
 module kzn
 
-go 1.24.0
+go 1.24
 
 require (
     github.com/anacrolix/torrent v1.58.1 // replace with latest tag
